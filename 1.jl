@@ -15,7 +15,7 @@ using Plots
 
 # ╔═╡ 5e554a18-3e55-11eb-201f-77e86a894262
 md"""
-This notebook is available for download [here](vlc1.github.io/mft-3-1-2/tp/20201214/tp.jl).
+This notebook is available for download [here](https://github.com/vlc1/mft-3-1-2-tp/blob/master/1.jl).
 
 """
 
@@ -436,7 +436,7 @@ end
 5/2*R
 
 # ╔═╡ Cell order:
-# ╠═5e554a18-3e55-11eb-201f-77e86a894262
+# ╟─5e554a18-3e55-11eb-201f-77e86a894262
 # ╠═52ce16ae-3e12-11eb-0819-0538eb4c7ea7
 # ╠═80d73794-3e10-11eb-1f4c-a703348234ae
 # ╟─b0b7d0e6-3b8f-11eb-286e-3bf9f2a16e5e
