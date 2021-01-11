@@ -7,6 +7,12 @@ using InteractiveUtils
 # ╔═╡ 15aa43a2-540a-11eb-3250-99ccb0d9adb3
 using DifferentialEquations, Plots
 
+# ╔═╡ b6bf1754-5453-11eb-3fca-69104f96bffd
+md"""
+The source code for this notebook may be found [here](https://github.com/vlc1/mft-3-1-2-tp/blob/master/2.jl).
+
+"""
+
 # ╔═╡ 879492d4-53f0-11eb-3b6d-7b4f33684e2a
 md"""
 # Numerical resolution of Boundary Value Problems (BVP)
@@ -143,6 +149,7 @@ The function ``\omega`` is defined as
 """
 
 # ╔═╡ Cell order:
+# ╟─b6bf1754-5453-11eb-3fca-69104f96bffd
 # ╠═15aa43a2-540a-11eb-3250-99ccb0d9adb3
 # ╟─879492d4-53f0-11eb-3b6d-7b4f33684e2a
 # ╟─7295c0c0-540d-11eb-1530-173db3a04a20
